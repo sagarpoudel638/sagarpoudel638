@@ -23,3 +23,10 @@
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarpoudel638)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mailtosagarpoudel@gmail.com)
+
+### GITHUB STATS
+![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarpoudel638&show_icons=true&theme=radical)
+
+
+### Top Languages 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpoudel638&layout=compact)
