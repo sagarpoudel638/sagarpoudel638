@@ -27,6 +27,10 @@
 ### GITHUB STATS
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagarpoudel638&show_icons=true&theme=radical)
 
+### GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagarpoudel638&theme=radical&hide_border=true)
 
 ### Top Languages 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarpoudel638&layout=compact)
+
+
