@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sagar Poudel!
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sagarpoudel638)
 ### About Me
 - 🔭 I’m currently working on: [Dhurbatara Edu Info](https://dhurbatara.edu.np) 
 - 🌱 I’m currently learning: React, Node.js, and AI Integration
