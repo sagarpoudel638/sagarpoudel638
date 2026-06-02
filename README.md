@@ -1,7 +1,7 @@
 # Sagar Poudel — Full Stack Developer
 
  Rosetta, Tasmania · Open to Remote · Available to Relocate  
- sagarpoudel@gmail.com · [LinkedIn](https://www.linkedin.com/in/sagarpoudel638/) · [Portfolio](https://namastepestcontrol.com.au)
+ [mailtosagarpoudel@gmail.com](mailto:mailtosagarpoudel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sagarpoudel638/) · [Portfolio](https://namastepestcontrol.com.au)
 
 ---
 
